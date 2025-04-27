@@ -42,6 +42,9 @@ img:hover{
     transform: scale(1.1);
 }
 
+.animar{
+    animation: img 2.5s linear forwards;
+}
 
 img:active{
     animation: img 2.5s linear forwards;
